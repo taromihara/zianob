@@ -3,3 +3,13 @@ img{
 	height: auto;
 	
 }
+
+.fix_img{
+	margin-left: 1px;
+}
+
+@media(max-width: 667px){
+	.fix_img{
+	margin-left: 2px;
+}
+}
